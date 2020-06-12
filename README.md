@@ -12,3 +12,8 @@ make -j4
 ./main
 make clean
 ```
+
+# Reference
+
+[the windows version](https://github.com/DeYangLiu/chez-exe/releases/tag/compile-chez-program-bin-for-windows-v1.0)   
+[compile-chez-program](https://github.com/gwatt/chez-exe)
